@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cashcue</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_stats">Statistik</string>
+    <string name="title_settings">Pengaturan</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="cashcue1">cash</string>
+    <string name="cashcue2">cue</string>
+    <string name="keeping_you1">keeping your</string>
+    <string name="keeping_you2">finances</string>
+    <string name="keeping_you3">in</string>
+    <string name="keeping_you4">your control</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="edit_profile">Edit Profil</string>
+    <string name="general">General</string>
+    <string name="language">Bahasa</string>
+    <string name="currency">Mata Uang</string>
+    <string name="change_password">Ubah Password</string>
+    <string name="logout">Keluar</string>
+    <string name="text_positive_button">Oke</string>
+    <string name="text_negative_button">Batal</string>
+    <string name="are_u_sure">Apakah Anda yakin?</string>
+    <string name="logout_successfully">Anda berhasil Keluar</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="edit_name">Masukkan Nama Baru</string>
+    <string name="edit_email">Masukkan Email Baru</string>
+    <string name="send">Kirim</string>
+    <string name="input_new_password">Masukkan Password Baru</string>
+</resources>
